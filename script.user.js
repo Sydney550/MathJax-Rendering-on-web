@@ -3,8 +3,7 @@
 // @version      2.1
 // @description  Active le rendu Latex avec MathJax
 // @author       spf1
-// @match        https://www.jeuxvideo.com/forums/42-35*
-// @match        https://www.jeuxvideo.com/forums/1-35*
+// @match              *://*/*
 
 // @grant        none
 // ==/UserScript==
