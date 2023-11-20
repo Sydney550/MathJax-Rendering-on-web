@@ -1,2 +1,2 @@
-# BreadcrumbsMathJax-Rendering-on-web
+# MathJax-Rendering-on-web
 Enable Latex rendering with MathJax on the webpage
