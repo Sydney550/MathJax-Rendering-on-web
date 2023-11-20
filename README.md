@@ -1,2 +1,2 @@
 # MathJax-C-D
-Active le rendu Latex 
+Enable Latex rendering with MathJax on the webpage
